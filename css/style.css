@@ -1,0 +1,26 @@
+#flashy{
+    background-image: url("../images/landing.jpg");
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+#race {
+  padding-top: 38px;
+}
+#rec {
+  background-color: orange;
+  padding-top: 38px;
+
+}
+#same {
+  background-image: url("../images/breakfast.jpg");
+  height: 210px;
+}
+#muturi {
+  background-image: url("../images/lunch.jpg");
+  height: 210px;
+}
+#dad {
+  background-image: url("../images/dinner2.jpg");
+  height: 210px;
+}
