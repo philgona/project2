@@ -3,6 +3,7 @@
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: black;
+    text-align: center;
 }
 #race {
   padding-top: 38px;
@@ -15,12 +16,28 @@
 #same {
   background-image: url("../images/breakfast.jpg");
   height: 210px;
+  background-repeat: no-repeat;
 }
 #muturi {
   background-image: url("../images/lunch.jpg");
   height: 210px;
+  background-repeat: no-repeat;
 }
 #dad {
   background-image: url("../images/dinner2.jpg");
-  height: 210px;
+  height: 210px;background-repeat: no-repeat;
+}
+#rose {
+  background-image: url("../images/foodsBg.jpg");
+}
+#sare {
+  text-align: center;
+  background-image: url("../images/subscribe.jpg");
+  color: white;
+}
+#collo {
+  text-align: center;
+  background-color: Orangered;
+  color: white;
+
 }
