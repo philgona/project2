@@ -8,7 +8,7 @@
   padding-top: 38px;
 }
 #rec {
-  background-color: orange;
+  background-color: orangered;
   padding-top: 38px;
 
 }
@@ -23,4 +23,21 @@
 #dad {
   background-image: url("../images/dinner2.jpg");
   height: 210px;
+}
+#sare {
+  background-image: url("../images/subscribe.jpg");
+  text-align: center;
+  color: white;
+}
+#rose {
+  background-image: url("../images/foodsBg.jpg");
+  color: white;
+}
+#zax {
+  text-align: center;
+
+}
+#collo {
+  background-color: orangered;
+  text-align: center;
 }
